@@ -1,0 +1,5 @@
+Dupont;Pierre;Boulevard du 11 novembre 1918, Villeurbanne;20.00;30.00
+Martin;Marie;Rue de la Republique, Lyon;18.00;25.00
+Bernard;Fatou;5 rue Garibaldi, Lyon;14.00;16.00
+Petit;Karim;12 avenue Jean Jaures;11.00;9.00
+Moreau;Alice;3 place Bellecour, Lyon;13.00;17.00
